@@ -1,8 +1,6 @@
-	# Eclipse
-	.classpath
-	.project
-	.settings/
-
-	# Maven
-	target/
+/.settings/
 /target/
+/.classpath
+/.gitignore
+/.project
+/model.ucls
