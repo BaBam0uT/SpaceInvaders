@@ -28,6 +28,7 @@ public class SpaceInvaders {
 		vaisseau.positionner(x, y);
 	}
 
+	
 	public void deplacerVaisseauVersLaDroite() {
 		if (vaisseau.abscisseLaPlusADroite() < (longueur - 1))
 			vaisseau.seDeplacerVersLaDroite();
