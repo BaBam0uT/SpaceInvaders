@@ -1,6 +1,6 @@
 # Space Invaders
 
-## Rapport (dernière actualisation le 26/05)
+## Rapport (dernière actualisation le 01/06)
 
 ### Sprints et fonctionnalités réalisées
 
